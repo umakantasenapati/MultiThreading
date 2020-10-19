@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600704594 source:e:\docs\c++\c++programe\oddevennoprintmultithread\main.cpp
+	<iostream>
+	<thread>
+	<mutex>
+	<condition_variable>
+
